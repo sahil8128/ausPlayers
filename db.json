@@ -1,31 +1,20 @@
-{ "profiles" :
+{ 
+ "players" :
  [  
   {
      "id":"1",
      "name":"David Warner",
      "play":"Batsman",
-     "age":"32",
-     "style":"Left-Handed",
-     "matches":"210",
-     "iplTeam":"SRH"
    },
    {
      "id":"2",
      "name":"Aaron Finch",
      "play":"Batsman",
-     "age":"31",
-     "style":"Right-Handed",
-     "matches":"170",
-     "iplTeam":"RCB"
    },
    {
      "id":"3",
      "name":"Steve Smith",
      "play":"Batsman",
-     "age":"30",
-     "style":"Right-Handed",
-     "matches":"205",
-     "iplTeam":"RR"
    }
-]
+  ]
 }
