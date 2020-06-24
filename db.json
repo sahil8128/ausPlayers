@@ -1,7 +1,7 @@
 {"players":
 	[  
   {
-     "id":"1",
+     "id":1,
      "name":"David Warner",
      "play":"Batsman",
      "age":"32",
@@ -10,7 +10,7 @@
      "iplTeam":"SRH"
    },
    {
-     "id":"2",
+     "id":2,
      "name":"Aaron Finch",
      "play":"Batsman",
      "age":"31",
@@ -19,7 +19,7 @@
      "iplTeam":"RCB"
    },
    {
-     "id":"3",
+     "id":3,
      "name":"Steve Smith",
      "play":"Batsman",
      "age":"30",
@@ -28,7 +28,7 @@
      "iplTeam":"RR"
    },
    {
-     "id":"4",
+     "id":4,
      "name":"Marnus Labuschagne",
      "play":"Batsman",
      "age":"32",
@@ -37,7 +37,7 @@
      "iplTeam":"CSK"
    },
    {
-     "id":"5",
+     "id":5,
      "name":"Shaun Marsh",
      "play":"Batsman",
      "age":"37",
@@ -46,7 +46,7 @@
      "iplTeam":"KXIP"
    },
    {
-     "id":"6",
+     "id":6,
      "name":"Peter Handscomb",
      "play":"Batsman",
      "age":"28",
@@ -55,7 +55,7 @@
      "iplTeam":"MI"
    },
    {
-     "id":"7",
+     "id":7,
      "name":"Tim Paine",
      "play":"Wicket-Keeper",
      "age":"36",
@@ -64,7 +64,7 @@
      "iplTeam":"SRH"
    },
    {
-     "id":"8",
+     "id":8,
      "name":"Alex Carey",
      "play":"Wicket-Keeper",
      "age":"27",
@@ -73,7 +73,7 @@
      "iplTeam":"DC"
    },
    {
-     "id":"9",
+     "id":9,
      "name":"Glenn Maxwell",
      "play":"All-Rounder",
      "age":"31",
@@ -82,7 +82,7 @@
      "iplTeam":"KXIP"
    },
    {
-     "id":"10",
+     "id":10,
      "name":"Mitch Marsh",
      "play":"All-Rounder",
      "age":"30",
@@ -91,7 +91,7 @@
      "iplTeam":"SRH"
    },
    {
-     "id":"11",
+     "id":11,
      "name":"Marcus Stoinis",
      "play":"All-Rounder",
      "age":"28",
@@ -100,7 +100,7 @@
      "iplTeam":"DC"
    },
    {
-     "id":"12",
+     "id":12,
      "name":"Mitchell Starc",
      "play":"Bowler",
      "age":"30",
@@ -109,7 +109,7 @@
      "iplTeam":"KKR"
    },
    {
-     "id":"13",
+     "id":13,
      "name":"Josh Hazlewood",
      "play":"Bowler",
      "age":"29",
@@ -118,7 +118,7 @@
      "iplTeam":"CSK"
    },
    {
-     "id":"14",
+     "id":14,
      "name":"Pat Cummins",
      "play":"Bowler",
      "age":"31",
@@ -127,7 +127,7 @@
      "iplTeam":"KKR"
    },
    {
-     "id":"15",
+     "id":15,
      "name":"Nathan Lyon",
      "play":"Bowler",
      "age":"35",
@@ -135,7 +135,7 @@
      "matches":"210",
      "iplTeam":"MI"
    },
-   {"id":"16",
+   {"id":16,
      "name":"Andrew Tye",
      "play":"Bowler",
      "age":"33",
