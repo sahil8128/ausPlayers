@@ -1,18 +1,4 @@
 {
-	"players": [{
-			"id": "1",
-			"name": "David Warner",
-			"play": "Batsman"
-		},
-		{
-			"id": "2",
-			"name": "Aaron Finch",
-			"play": "Batsman"
-		},
-		{
-			"id": "3",
-			"name": "Steve Smith",
-			"play": "Batsman"
-		}
-	]
+	"players": "one",
+	"nonPlayers" : "two"
 }
