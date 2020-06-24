@@ -1,4 +1,4 @@
 {
-	"players": "one",
-	"nonPlayers" : "two"
+	"student":{"name":"sahil",age:23},
+	"player":{"game":"cricket"}
 }
