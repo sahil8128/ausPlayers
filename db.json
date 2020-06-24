@@ -1,4 +1,6 @@
-{
-	"student":{"name":"sahil","age":23},
-	"player":{"game":"cricket"}
+{"players":[
+	{"id":1,"name":"Sahil","age":23},
+	{"id":2,"name":"Gorish","age":14},
+	{"id":3,"name":"Aman","age":22}
+]
 }
