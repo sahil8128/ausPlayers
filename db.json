@@ -1,4 +1,4 @@
 {
-	"student":{"name":"sahil",age:23},
+	"student":{"name":"sahil","age":23},
 	"player":{"game":"cricket"}
 }
